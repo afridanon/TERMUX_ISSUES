@@ -1,10 +1,11 @@
 ## Termux Issue:
-* `Termux App is no longer recieving updates on playstore`
-* `due to recently introduced Google Play policy `
+## Termux App is no longer recieving updates on playstore
+## due to recently introduced Google Play policy 
 <br>
 
-DON'T WORRY
-* `We have a solution for that !`
+~~~
+Dont Worry We Have Solution For That!
+~~~
 <br>
 
 You can download the latest termux app and install it 
