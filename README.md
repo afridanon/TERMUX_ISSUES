@@ -9,4 +9,6 @@ DON'T WORRY
 
 You can download the latest termux app and install it 
 
-From here <a href="https://f-droid.org/repo/com.termux_117.apk" class="down">Download</a>
+From here <a href="https://f-droid.org/repo/com.termux_117.apk">Download</a>
+## Those Who Want Join Our WhatsApp Group 
+Joim From Here <a href="https://chat.whatsapp.com/G2igpQ7nOKBFEElImGfmR6">Join From Here</a>
